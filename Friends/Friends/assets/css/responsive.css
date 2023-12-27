@@ -1,0 +1,1660 @@
+/* Normal desktop :1200px. */
+@media (min-width: 1200px) and (max-width: 1600px) {
+    
+.newsletter-area {
+    padding: 0 0 0 200px;
+}
+
+.icon-box {
+    padding-right: 0px;
+}
+
+.icon-box-content h2 {
+    font-size: 21px;
+}
+
+.newsletter-area .nsbg {
+    padding: 80px 40px 80px 30px;
+}
+
+.portfolio-content {
+    padding: 0 30px;
+}
+
+}
+/* Normal desktop :1200px. */
+@media (min-width: 1200px) and (max-width: 1444px) {
+    
+.newsletter-area {
+    padding: 0 0 0 80px;
+}
+
+.sticky {
+    padding: 10px 30px;
+}
+
+.friends_nav_manu {
+    padding: 0 30px;
+}
+
+.top-address-icon {
+    display: none;
+}
+
+.single-header-top-address.fast {
+    padding-left: 15px;
+}
+
+.friends_nav_manu:before {
+    height: 50%;
+}
+
+.friends_nav_manu.style-two {
+    padding: 0 40px;
+}
+
+.upper-bx.two {
+    padding: 120px 90px 0 110px;
+}
+
+.skill-area {
+    padding: 0  50px 0 0;
+}
+
+}
+
+
+/* Normal desktop :992px. */
+@media (min-width: 992px) and (max-width: 1199px) {
+
+.friends_nav_manu {
+    padding: 0 20px;
+}
+
+a.main_sticky img {
+    width: 100% ;
+}
+
+.friends_menu > ul > li > a {
+    margin: 20px 7px 18px;
+    font-size: 12px;
+}
+
+a.logo_img img {
+    width: 100%;
+}
+
+.logo {
+    margin-top: 0;
+}
+
+.header-top-area {
+    display: none;
+}
+
+.banner-title h1 {
+    font-size: 90px;
+}
+
+.single-feature {
+    padding: 32px 20px 44px;
+}
+
+.row.fcr-tp {
+    padding: 50px 20px 20px;
+}
+
+.feature-icon {
+    margin-right: 15px;
+}
+
+.feature-title h2 {
+    font-size: 20px;
+}
+
+.about-thumb img {
+    width: 100%;
+}
+
+.section-title h1 {
+    font-size: 40px;
+}
+
+.service-content {
+    padding: 0 30px 37px;
+}
+
+.why-choose-us-area {
+    padding: 0;
+}
+
+.icon-box-icon {
+    margin-right: 15px;
+}
+
+.icon-box-icon i {
+    font-size: 40px;
+}
+
+.icon-box-content h2 {
+    font-size: 17px;
+}
+
+.row.it-shape:after {
+    left: 72px;
+}
+
+.single-how-it-work {
+    padding: 0 2px;
+}
+
+.how-it-work-content p {
+    font-size: 15px;
+}
+
+.testimonial-content p {
+    font-size: 14px;
+}
+
+.blog-title h2 {
+    font-size: 20px;
+}
+
+.newsletter-area {
+    padding: 0;
+}
+
+.newsletter-title h2 {
+    font-size: 26px;
+}
+
+.newsletter-form input {
+    width: 80%;
+}
+
+.newsletter-form button {
+    right: 40px;
+}
+
+.footer-menu {
+    margin-right: 30px;
+}
+
+.recent-widget-thumb {
+    margin-right: 15px;
+}
+
+.recent-widget-content span i {
+    margin-right: 6px;
+}
+
+.footer-widget-text p {
+    width: 100%;
+}
+
+/* Home Two */
+
+.slider-title h1 {
+    font-size: 70px;
+}
+
+.slider-sp-title h1 {
+    font-size: 200px;
+    top: -85px;
+}
+
+.style-two .service-content-inner p {
+    width: 95%;
+    font-size: 15px;
+}
+
+.style-two .service-content-inner {
+    padding: 30px 30px 12px 25px;
+}
+
+.service-content-inner h2 {
+    font-size: 22px;
+}
+
+.pricing-button a {
+    padding: 14px 32px;
+}
+
+.upper-bx.two {
+    padding: 120px 30px 0 20px;
+}
+
+.appointment-booking {
+    padding: 35px 36px 55px;
+}
+
+.skill-area {
+    padding: 0;
+}
+
+.appointment-booking select.custom-select.slc {
+    width: 47%;
+}
+
+.team-content-inner h2 {
+    font-size: 22px;
+}
+
+/*inner Pages */
+
+.service-details-box {
+    padding: 30px 20px 10px;
+}
+
+.icon-box {
+    padding-right: 0;
+}
+
+.row.upper-bx {
+    padding: 30px 0px 30px 18px;
+}
+
+.icon-box-content p {
+    font-size: 15px;
+}
+
+.portfolio-content {
+    padding: 0 25px;
+}
+
+.portfolio-content h2 {
+    font-size: 17px;
+}
+
+.newsletter-area .nsbg {
+    padding: 80px 2px 80px 30px;
+}
+
+.friends_nav_manu.style-two {
+    padding: 0 30px;
+}
+
+.header-contact-icon {
+    display: none;
+}
+
+.friends_nav_manu.style-two:before {
+    width: 20%;
+}
+
+.portfolio-area.style-two {
+    padding: 0 0 0 35px;
+}
+
+.mission-history-box {
+    width: 80%;
+}
+
+.mission-history-right::before {
+    left: -35px;
+}
+
+.line-button {
+    left: -13%;
+}
+
+.sidber-widget-recent-post .recent-widget-content a {
+    font-size: 14px;
+    line-height: 17px;
+}
+
+.widget-categories-box {
+    padding: 35px 30px 20px;
+}
+
+.widget-tags a {
+    padding: 3px 15px;
+    font-size: 15px;
+}
+
+.contact-address-box {
+    margin-left: 20px;
+}
+
+.upper-bx.two {
+    margin-top: -222px;
+}
+
+}
+
+
+/* Tablet desktop :768px. */
+@media (min-width: 768px) and (max-width: 991px) {
+
+.friends_nav_manu {
+    display: none;
+}
+
+.header-top-area {
+    display: none;
+}
+
+.banner-title h1 {
+    font-size: 80px;
+    line-height: 100px;
+}
+
+.feature-icon {
+    margin-right: 22px;
+}
+
+.row.fcr-tp {
+    padding: 50px 11px 20px;
+    margin-top: -50px;
+}
+
+.about-thumb img {
+    width: 100%;
+    margin-bottom: 45px;
+}
+
+.section-title h1 {
+    font-size: 40px;
+}
+
+.section-title p {
+    width: 90%;
+}
+
+.choose-us-thumb.pr-40 {
+    padding-right: 0;
+    padding-bottom: 30px;
+}
+
+.row.it-shape:after {
+    display: none;
+}
+
+.row.it-shape {
+    padding-top: 0;
+}
+
+h2.shape-title {
+    font-size: 100px;
+}
+
+.single-testimonial {
+    margin-top: 40px;
+}
+
+.newsletter-area {
+    padding: 0;
+}
+
+.newsletter-title h2 {
+    font-size: 32px;
+}
+
+.newsletter-form input {
+    width: 80%;
+}
+
+.newsletter-form button {
+    right: 40px;
+}
+
+.newsletter-title {
+    margin-bottom: 25px;
+}
+
+/* Home Two */
+
+.slider-area {
+    height: 600px;
+}
+
+.slider-content {
+    margin-top: 50px;
+}
+
+.slider-sp-title h1 {
+    font-size: 190px;
+    top: -95px;
+}
+
+.slider-title h1 {
+    font-size: 55px;
+}
+
+.style-two .about-thumb img {
+    margin-left: 0;
+}
+
+.portfolio-area.style-two {
+    padding: 0;
+}
+
+.portfolio-area .row.prts-bgt {
+    padding: 115px 0 90px;
+}
+
+.upper-bx.two {
+    padding: 120px 30px 0 20px;
+}
+
+.appointment-booking {
+    margin-left: 0;
+    margin-top: 20px;
+}
+
+.skill-area {
+    padding: 0;
+}
+
+.contact-form {
+    padding-top: 20px;
+}
+
+.blog-area.style-two .section-title {
+    margin-bottom: 50px;
+}
+
+.sticky {
+    position: relative !important;
+    padding: 0;
+}
+
+.banner-area {
+    height: 800px;
+}
+
+.why-choose-us-area {
+    padding: 0;
+}
+
+.portfolio-content {
+    padding: 0 30px;
+}
+
+.portfolio-content h2 {
+    font-size: 22px;
+}
+
+.newsletter-area .nsbg {
+    padding: 80px 2px 80px 30px;
+}
+
+.breadcumb-area {
+    padding: 100px 0 100px;
+}
+
+.breadcumb-title h1 {
+    font-size: 60px;
+}
+
+.mission-vision-area {
+    background-repeat: inherit;
+    background-size: inherit;
+    background-position: left;
+}
+
+.mission-history-right::before {
+    display:none;
+}
+
+.line-button {
+    display:none;
+}
+
+.mission-history-box {
+    width: 100%;
+}
+
+.mission-history-right {
+    padding-left: 10px;
+}
+
+.row.mrc-mrgn {
+    margin-top: 0;
+}
+
+.mission-history-years {
+    margin-right: 0;
+}
+
+.mission-area {
+    padding: 115px 0 95px;
+}
+
+.contact-address-box {
+    margin-left: 0;
+    margin-top: 40px;
+}
+
+.contact-thumb {
+    margin-right: 0;
+}
+
+ul.nav_scroll li a i {
+    display: none;
+}
+
+
+}
+
+/* Large Mobile :600px. */
+@media only screen and (min-width: 600px) and (max-width: 767px) {
+
+.friends_nav_manu {
+    display: none;
+}
+
+.header-top-area {
+    display: none;
+}
+
+.banner-title h1 {
+    font-size: 50px;
+    line-height: 65px;
+}
+
+.banner-text p {
+    width: 80%;
+}
+
+.feature-icon {
+    margin-top: -5px;
+}
+
+.about-thumb img {
+    width: 100%;
+    margin-bottom: 45px;
+}
+
+.section-title h1 {
+    font-size: 38px;
+}
+
+.video-area.style-two .section-title h1 {
+    font-size: 24px;
+}
+
+.about-content {
+    padding-left: 0;
+}
+
+.service-thumb img {
+    width: 100%;
+}
+
+.video-icon {
+    left: 65%;
+    transform: translateX(-50%) translateY(-67%);
+}
+
+.service-details-video-thumb .video-icon {
+    left: 50%;
+    transform: translateX(-50%) translateY(-50%);
+}
+
+.choose-us-thumb.pr-40 {
+    padding-right: 0;
+    padding-bottom: 30px;
+}
+
+.row.it-shape:after {
+    display: none;
+}
+
+.row.it-shape {
+    padding-top: 0;
+}
+
+h2.shape-title {
+    font-size: 90px;
+}
+
+.single-testimonial {
+    margin-top: 40px;
+}
+
+.single-testimonial {
+    padding: 50px 30px 28px;
+}
+
+.newsletter-area {
+    padding: 0;
+}
+
+.newsletter-title {
+    margin-bottom: 25px;
+}
+
+.newsletter-title h2 {
+    font-size: 32px;
+}
+
+.newsletter-form input {
+    width: 80%;
+}
+
+.newsletter-form button {
+    right: 40px;
+}
+
+.footer-widget-recent-post {
+    margin-bottom: 50px;
+}
+
+.footer-widget.recent {
+    margin-left: 15px;
+}
+
+/* Home Two */
+
+.slider-area {
+    height: 600px;
+}
+
+.slider-content {
+    margin-top: 50px;
+}
+
+.slider-sp-title h1 {
+    font-size: 145px;
+    top: -70px;
+}
+
+.slider-title h1 {
+    font-size: 45px;
+}
+
+.style-two .about-thumb img {
+    margin-left: 0;
+}
+
+.portfolio-area.style-two {
+    padding: 0;
+}
+
+.portfolio-area .row.prts-bgt {
+    padding: 115px 0 90px;
+}
+
+.video-area.style-two .pr-video .video-icon {
+    left: 50%;
+}
+
+.upper-bx.two {
+    padding: 120px 30px 0 20px;
+}
+
+.appointment-booking {
+    margin-left: 0;
+    margin-top: 20px;
+}
+
+.skill-area {
+    padding: 0;
+}
+
+.counter-content h2 {
+    font-size: 40px;
+}
+
+.contact-form {
+    padding-top: 20px;
+}
+
+.blog-area.style-two .section-title {
+    margin-bottom: 50px;
+}
+
+.sticky {
+    position: relative !important;
+    padding: 0;
+}
+
+.banner-area {
+    height: 750px;
+}
+
+.row.fcr-tp {
+    margin-top: -85px;
+}
+
+.why-choose-us-area {
+    padding: 0;
+}
+
+.portfolio-content h2 {
+    font-size: 20px;
+}
+
+.newsletter-area .nsbg {
+    padding: 80px 2px 80px 30px;
+}
+
+.breadcumb-area {
+    padding: 100px 0 100px;
+}
+
+.breadcumb-title h1 {
+    font-size: 50px;
+    color: #fff;
+}
+
+.mission-vision-area {
+    background-repeat: inherit;
+    background-size: inherit;
+    background-position: left;
+}
+
+.mission-history-right::before {
+    display:none;
+}
+
+.line-button {
+    display:none;
+}
+
+.mission-history-box {
+    width: 100%;
+}
+
+.mission-history-right {
+    padding-left: 0;
+}
+
+.row.mrc-mrgn {
+    margin-top: 0;
+}
+
+.mission-history-years {
+    margin-right: 0;
+    text-align: left;
+    margin-bottom: 30px;
+}
+
+.mission-area {
+    padding: 115px 0 95px;
+}
+
+.newsletter-area.style-two .row.nsbg {
+    padding: 65px 0 80px 30px;
+}
+
+.contact-address-box {
+    margin-left: 0;
+    margin-top: 40px;
+}
+
+.contact-thumb {
+    margin-right: 0;
+}
+
+.portfolio-details-main-title h1 {
+    font-size: 30px;
+}
+
+.portfolio-details-overview-title h2 {
+    font-size: 24px;
+}
+
+.portfolio-details-clients-title h2 {
+    font-size: 24px;
+}
+
+.service-details-main-title h1 {
+    font-size: 30px;
+}
+
+.service-details-overview-title h2 {
+    font-size: 24px;
+}
+
+.service-details-choose-us-title h2 {
+    font-size: 24px;
+}
+
+ul.nav_scroll li a i {
+    display: none;
+}
+
+}
+/* small mobile :480px. */
+@media only screen and (min-width: 480px) and (max-width: 599px) {
+
+.friends_nav_manu {
+    display: none;
+}
+
+.header-top-area {
+    display: none;
+}
+
+.banner-area {
+    height: 650px;
+}
+
+.banner-title h1 {
+    font-size: 40px;
+    line-height: 52px;
+}
+
+.banner-text p {
+    width: 78%;
+}
+
+.row.fcr-tp {
+    padding: 50px 35px 20px;
+    margin-top: 115px;
+}
+
+.about-content {
+    padding-left: 0;
+}
+
+.about-thumb img {
+    width: 100%;
+    margin-bottom: 45px;
+}
+
+h2.shape-title {
+    font-size: 70px;
+}
+
+.service-thumb img {
+    width: 100%;
+}
+
+.video-icon {
+    left: 65%;
+    transform: translateX(-50%) translateY(-67%);
+}
+
+.choose-us-thumb.pr-40 {
+    padding-right: 0;
+    padding-bottom: 30px;
+}
+
+.why-choose-us-area {
+    padding: 0;
+}
+
+.section-title h1 {
+    font-size: 33px;
+}
+
+.row.it-shape:after {
+    display: none;
+}
+
+.row.it-shape {
+    padding-top: 0;
+}
+
+.single-testimonial {
+    margin-top: 40px;
+}
+
+.single-testimonial {
+    padding: 50px 16px 28px;
+}
+
+.newsletter-title {
+    margin-bottom: 25px;
+}
+
+.blog-title h2 {
+    font-size: 20px;
+}
+
+.newsletter-area {
+    padding: 0;
+}
+
+.newsletter-form button {
+    padding: 0 22px;
+    right: 30px;
+}
+
+.newsletter-area .nsbg {
+    padding: 80px 15px 80px;
+}
+
+.footer-widget-recent-post {
+    margin-bottom: 50px;
+}
+
+.footer-widget-text p {
+    width: 100%;
+}
+
+.footer-widget.recent {
+    margin-left: 15px;
+}
+
+/* Home Two */
+
+.slider-area {
+    height: 600px;
+}
+
+.slider-content {
+    margin-top: 0;
+}
+
+.slider-sp-title h1 {
+    font-size: 130px;
+    top: -55px;
+}
+
+.slider-title h1 {
+    font-size: 40px;
+}
+
+.style-two .about-thumb img {
+    margin-left: 0;
+}
+
+.portfolio-area.style-two {
+    padding: 0;
+}
+
+.portfolio-area .row.prts-bgt {
+    padding: 115px 0 90px;
+}
+
+.video-area.style-two .pr-video .video-icon {
+    left: 50%;
+}
+
+.video-area.style-two .section-title h1 {
+    font-size: 26px;
+}
+
+.upper-bx.two {
+    padding: 120px 30px 0 20px;
+}
+
+.appointment-booking {
+    margin-left: 0;
+    margin-top: 20px;
+}
+
+.skill-area {
+    padding: 0;
+}
+
+.counter-content h2 {
+    font-size: 40px;
+}
+.contact-form {
+    padding-top: 20px;
+}
+
+.blog-area.style-two .section-title {
+    margin-bottom: 50px;
+}
+
+.sticky {
+    position: relative !important;
+    padding: 0;
+}
+
+.about-area .col-lg-6.pl-0 {
+    padding-left: 15px !important;
+}
+
+.row.upper-bx {
+    padding: 30px 20px 20px 18px;
+}
+
+.portfolio-content h2 {
+    font-size: 20px;
+}
+
+.newsletter-title h2 {
+    font-size: 30px;
+}
+
+.breadcumb-area {
+    padding: 100px 0 100px;
+}
+
+.breadcumb-title h1 {
+    font-size: 45px;
+}
+
+.counter-content h2 {
+    font-size: 30px;
+}
+
+.counter-area.style-two .counter-content span {
+    font-size: 30px;
+}
+
+.mission-vision-area {
+    background-repeat: inherit;
+    background-size: inherit;
+    background-position: left;
+}
+
+.mission-history-right::before {
+    display:none;
+}
+
+.line-button {
+    display:none;
+}
+
+.mission-history-box {
+    width: 100%;
+}
+
+.mission-history-right {
+    padding-left: 0;
+}
+
+.row.mrc-mrgn {
+    margin-top: 0;
+}
+
+.mission-history-years {
+    margin-right: 0;
+    text-align: left;
+    margin-bottom: 30px;
+}
+
+.mission-area {
+    padding: 115px 0 95px;
+}
+
+.newsletter-area.style-two .row.nsbg {
+    padding: 65px 0 80px 30px;
+}
+
+.blog-details-author-thumb {
+    float: inherit;
+    margin-right: 0;
+    text-align: center;
+    margin-bottom: 20px;
+}
+
+.blog-details-author-content {
+    text-align: center;
+}
+
+.blog-details-author-inner {
+    padding: 35px 30px 18px;
+}
+
+.blog-details-video-thumb .video-icon {
+    left: 50%;
+    transform: translateX(-50%) translateY(-50%);
+}
+
+.contact-address-box {
+    margin-left: 0;
+    margin-top: 40px;
+}
+
+.contact-thumb {
+    margin-right: 0;
+}
+
+.row.contact-box {
+    padding: 40px 25px 40px;
+}
+
+.contact-title h2 {
+    font-size: 26px;
+    margin-bottom: 30px;
+}
+
+.portfolio-details-main-title h1 {
+    font-size: 30px;
+}
+
+.portfolio-details-overview-title h2 {
+    font-size: 24px;
+}
+
+.portfolio-details-clients-title h2 {
+    font-size: 24px;
+}
+
+.service-details-video-thumb .video-icon {
+    left: 50%;
+    transform: translateX(-50%) translateY(-50%);
+}
+
+.service-details-main-title h1 {
+    font-size: 30px;
+}
+
+.service-details-overview-title h2 {
+    font-size: 24px;
+}
+
+.service-details-choose-us-title h2 {
+    font-size: 24px;
+}
+
+ul.nav_scroll li a i {
+    display: none;
+}
+
+}
+
+/* small mobile :280px. */
+@media only screen and (min-width: 280px) and (max-width: 479px) {
+
+.friends_nav_manu {
+    display: none;
+}
+
+.header-top-area {
+    display: none;
+}
+
+.banner-area {
+    height: 650px;
+}
+
+.banner-title h1 {
+    font-size: 33px;
+    line-height: 50px;
+}
+
+.banner-text p {
+    width: 100%;
+}
+
+.row.fcr-tp {
+    padding: 50px 20px 20px;
+    margin-top: 115px;
+}
+
+.single-feature {
+    text-align: center;
+}
+
+.feature-icon {
+    float: inherit;
+    margin-right: 0;
+    margin-bottom: 10px;
+}
+
+.about-thumb img {
+    width: 100%;
+    margin-bottom: 45px;
+}
+
+.section-title h1 {
+    font-size: 26px;
+}
+
+h2.shape-title {
+    font-size: 60px;
+}
+
+.about-content {
+    padding-left: 0;
+}
+
+.service-content {
+    padding: 0 32px 37px;
+}
+
+.service-content-inner h2 {
+    font-size: 22px;
+}
+
+.choose-us-thumb.pr-40 {
+    padding-right: 0;
+    padding-bottom: 30px;
+}
+
+.why-choose-us-area {
+    padding: 0;
+}
+
+.icon-box-content h2 {
+    font-size: 18px;
+}
+
+.icon-box-content p {
+    font-size: 15px;
+}
+
+.video-area .bd-video {
+    display: none;
+}
+
+.row.it-shape:after {
+    display: none;
+}
+
+.row.it-shape {
+    padding-top: 0;
+}
+
+.single-testimonial {
+    margin-top: 40px;
+}
+
+.single-testimonial {
+    padding: 50px 16px 28px;
+}
+
+.newsletter-title {
+    margin-bottom: 25px;
+}
+
+.blog-title h2 {
+    font-size: 20px;
+}
+
+.newsletter-area {
+    padding: 0;
+}
+
+.newsletter-title h2 {
+    font-size: 26px;
+}
+
+.newsletter-form button {
+    padding: 0 18px;
+    right: 0;
+}
+
+.newsletter-area .nsbg {
+    padding: 80px 12px 80px 0;
+}
+
+.footer-widget.recent {
+    margin-left: 15px;
+}
+
+.footer-widget-recent-post {
+    margin-bottom: 50px;
+}
+
+.footer-widget-text p {
+    width: 100%;
+}
+
+/* Home Two */
+
+.slider-area {
+    height: 550px;
+}
+
+.slider-content {
+    margin-top: 0;
+}
+
+.slider-sp-title h1 {
+    font-size: 85px;
+    top: -50px;
+}
+
+.slider-title h1 {
+    font-size: 25px;
+}
+
+.slider-button .button a i {
+    margin-left: 3px;
+}
+
+.slider-button .button.two a {
+    padding: 10px 19px;
+    margin: 0 4px;
+    font-size: 13px;
+}
+
+.style-two .about-thumb img {
+    margin-left: 0;
+}
+
+.about-content-inner-text h3 {
+    font-size: 16px;
+}
+
+.style-two .service-content-inner p {
+    width: 95%;
+    font-size: 15px;
+}
+
+.style-two .service-content-inner {
+    padding: 30px 30px 12px 25px;
+}
+
+.service-content-inner h2 {
+    font-size: 22px;
+}
+
+.portfolio-area.style-two {
+    padding: 0;
+}
+
+.portfolio-area .row.prts-bgt {
+    padding: 115px 0 90px;
+}
+
+.pricing-button a {
+    padding: 14px 32px;
+}
+
+.video-area.style-two .pr-video .video-icon {
+    left: 50%;
+}
+
+.video-area.style-two .section-title h1 {
+    font-size: 23px;
+}
+
+.upper-bx.two {
+    padding: 120px 10px 0 10px;
+}
+
+.appointment-booking {
+    margin-left: 0;
+    margin-top: 20px;
+    padding: 35px 30px 55px;
+}
+
+.skill-area {
+    padding: 0;
+}
+
+.appointment-booking select.custom-select.slc.tbs {
+    margin-right: 8px;
+}
+
+.appointment-booking-title h2 {
+    font-size: 24px;
+}
+
+.team-content-inner h2 {
+    font-size: 22px;
+}
+
+.counter-content h2 {
+    font-size: 30px;
+}
+
+.counter-area.style-two .counter-content span {
+    font-size: 30px;
+}
+
+.contact-form {
+    padding-top: 20px;
+}
+
+.blog-area.style-two .section-title {
+    margin-bottom: 50px;
+}
+
+.newsletter-area.style-two .newsletter-title h2 {
+    font-size: 22px;
+}
+
+.sticky {
+    position: relative !important;
+    padding: 0;
+}
+
+.about-area .col-lg-6.pl-0 {
+    padding-left: 15px !important;
+}
+
+.row.upper-bx {
+    padding: 30px 15px 20px 10px;
+}
+
+.icon-box {
+    padding-right: 0;
+}
+
+.how-it-work-content p {
+    font-size: 15px;
+}
+
+.portfolio-content {
+    padding: 0 25px;
+}
+
+.portfolio-content h2 {
+    font-size: 19px;
+}
+
+.breadcumb-area {
+    padding: 100px 0 100px;
+}
+
+.breadcumb-title h1 {
+    font-size: 32px;
+}
+
+.breadcumb-content-menu ul li a {
+    font-size: 16px;
+}
+
+.breadcumb-content-menu ul li span {
+    font-size: 16px;
+}
+
+.mission-vision-area {
+    background-repeat: inherit;
+    background-size: inherit;
+    background-position: left;
+}
+
+.tabs li a {
+    padding: 5px 23px;
+    margin-right: 12px;
+    font-size: 15px;
+}
+
+.mission-history-right::before {
+    display:none;
+}
+
+.line-button {
+    display:none;
+}
+
+.mission-history-box {
+    width: 100%;
+}
+
+.mission-history-right {
+    padding-left: 0;
+}
+
+.row.mrc-mrgn {
+    margin-top: 0;
+}
+
+.mission-history-years {
+    margin-right: 0;
+    text-align: left;
+    margin-bottom: 30px;
+}
+
+.mission-area {
+    padding: 115px 0 95px;
+}
+
+.newsletter-area.style-two .row.nsbg {
+    padding: 65px 12px 80px 0;
+}
+
+.mission-history-box {
+    padding: 38px 35px 32px;
+}
+
+.mission-history-content h2::before {
+    left: -36px;
+}
+
+.mission-history-right .mission-history-content h2::before {
+    right: -36px;
+}
+
+.blog-details-author-thumb {
+    float: inherit;
+    margin-right: 0;
+    text-align: center;
+    margin-bottom: 20px;
+}
+
+.blog-details-author-content {
+    text-align: center;
+}
+
+.blog-details-author-inner {
+    padding: 35px 20px 18px;
+}
+
+.blog-details-main {
+    padding: 20px;
+}
+
+.blog-details-meta span {
+    display: block;
+}
+
+.blog-details-content h2 {
+    font-size: 22px;
+}
+
+.blog-details-blockquote {
+    padding: 40px 30px 26px;
+}
+
+.blog-details-blockquote blockquote {
+    font-size: 16px;
+}
+
+.blog-details-social {
+    text-align: left;
+    margin-top: 15px;
+}
+
+.widget-categories-box {
+    padding: 42px 30px 25px;
+}
+
+.widget-tags a {
+    padding: 3px 15px;
+}
+
+.newsletter-area.style-three {
+    padding: 65px 12px 65px 0;
+}
+
+.recent-widget-thumb {
+    margin-right: 15px;
+}
+
+.sidber-widget-recent-post .recent-widget-content a {
+    font-size: 16px;
+    line-height: 20px;
+}
+
+.blog-details-comment.reply {
+    margin-left: 0;
+}
+
+.blog-details-comment-thumb {
+    margin-right: 0;
+}
+
+.blog-details-comment-thumb img {
+    width: 80%;
+}
+
+.blog-details-comment-reply {
+    display: none;
+}
+
+.blog-details-comment-content p {
+    font-size: 15px;
+}
+
+.contact-address-box {
+    margin-left: 0;
+    margin-top: 40px;
+}
+
+.contact-thumb {
+    margin-right: 0;
+}
+
+.contact-address-single-box {
+    padding: 30px 20px 30px;
+}
+
+.contact-address-icon {
+    margin-right: 20px;
+}
+
+.contact-address-icon i {
+    height: 75px;
+    width: 75px;
+    line-height: 75px;
+    font-size: 30px;
+}
+
+.contact-address-content p {
+    font-size: 15px;
+}
+
+.row.contact-box {
+    padding: 40px 25px 40px;
+}
+
+.contact-title h2 {
+    font-size: 24px;
+    margin-bottom: 30px;
+}
+
+.portfolio-details-main-title h1 {
+    font-size: 20px;
+}
+
+.portfolio-details-overview-title h2 {
+    font-size: 18px;
+}
+
+.portfolio-details-clients-title h2 {
+    font-size: 18px;
+}
+
+.service-details-main-title h1 {
+    font-size: 20px;
+}
+
+.service-details-overview-title h2 {
+    font-size: 18px;
+}
+
+.service-details-choose-us-title h2 {
+    font-size: 18px;
+}
+
+.service-details-content h2 {
+    font-size: 18px;
+}
+
+.categories-title h4 {
+    font-size: 20px;
+}
+
+ul.nav_scroll li a i {
+    display: none;
+}
+
+}
+
+
+
